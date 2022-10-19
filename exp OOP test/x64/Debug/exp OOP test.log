@@ -1,0 +1,8 @@
+﻿  exp OOP test.cpp
+C:\Users\haz\source\exp OOP test\User.h(26,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haz\source\exp OOP test\User.h(41,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haz\source\exp OOP test\User.h(47,36): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\haz\source\exp OOP test\Student.h(55,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haz\source\exp OOP test\Prog.h(54,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haz\source\exp OOP test\Prog.h(106,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  exp OOP test.vcxproj -> C:\Users\haz\source\exp OOP test\x64\Debug\exp OOP test.exe
